@@ -1,0 +1,4 @@
+shellshock
+==========
+
+script para shellshock
